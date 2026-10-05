@@ -1,2 +1,8 @@
 Create project:
   1. Terminal: npx create-next-app@16.3
+
+To run:
+  Terminal: npm run dev
+
+To create React component:
+  Terminal: rafce
