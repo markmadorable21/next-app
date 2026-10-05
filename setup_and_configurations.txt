@@ -6,3 +6,9 @@ To run:
 
 To create React component:
   Terminal: rafce
+
+To build project for production:
+  Terminal: npm run build
+
+To start the application for production:
+  Terminal: npm start
