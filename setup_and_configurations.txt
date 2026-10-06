@@ -1,2 +1,0 @@
-Create project:
-  1. Terminal: npx create-next-app@16.3
